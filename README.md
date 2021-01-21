@@ -1,3 +1,8 @@
+### Jake: Here's how you generate the PDF file from the .tex file on your machine:
+```
+~/bin/lualatex JakeKrammer_Resume.tex && open JakeKrammer_Resume.pdf
+```
+
 # McDowell CV
 McDowell CV is a LuaLaTeX class for building neat and space-efficient CVs using the design originally proposed by Gayle L. McDowell at 
 http://www.careercup.com/resume. 
